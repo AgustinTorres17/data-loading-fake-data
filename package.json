@@ -1,0 +1,25 @@
+{
+  "name": "medical-data-loader",
+  "version": "1.0.0",
+  "description": "Generate and load fake medical data into PostgreSQL database using Faker.js",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js --records 100",
+    "facts-only": "node src/index.js --facts-only"
+  },
+  "keywords": [
+    "faker",
+    "postgresql",
+    "data-generation",
+    "medical-data"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "pg": "^8.13.1",
+    "dotenv": "^16.4.7"
+  }
+}
