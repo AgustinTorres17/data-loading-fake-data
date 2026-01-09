@@ -85,13 +85,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "a3e26e44-cac8-44cb-9420-415953cd487f"
+                                "lib/uuid": "e9245ab9-10f0-4b2a-b304-98ac2db9aeaa"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "26f717f9-64b2-427c-9645-0302daa12fa8",
+                                    "lib/uuid": "1e7fb9c2-de22-40d4-920b-329b7b21b348",
                                     "effective-type": "type/Integer"
                                 },
                                 2
@@ -104,7 +104,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "month",
-                                "lib/uuid": "5da0a5c3-aa51-40ce-a65d-adf1a76f3a80",
+                                "lib/uuid": "04e34d43-66cf-4030-be8e-a1c2260e3dba",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -115,13 +115,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "17961517-650a-4794-bb07-055b01016a3c"
+                                "lib/uuid": "1afa5590-0f07-4b89-bf16-ccd68768213a"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "1dc10a29-0a10-490d-96ec-d2f61f835eb9",
+                                    "lib/uuid": "e2c7e550-0b23-4b25-b03b-1be2920ff550",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -132,13 +132,13 @@
                         [
                             "=",
                             {
-                                "lib/uuid": "6e380244-34c9-4de0-8eff-c3bbd1a09a3b"
+                                "lib/uuid": "e6822911-6e65-41af-b826-bd73e11e4053"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "4a68d83b-62a8-4e88-a0ad-8b85e5f81a46",
+                                    "lib/uuid": "f4eb28be-6d73-443b-88ad-691d7be09b1c",
                                     "effective-type": "type/Integer"
                                 },
                                 14
@@ -431,13 +431,13 @@
                         [
                             "desc",
                             {
-                                "lib/uuid": "5afd6a6b-e90a-4618-a0c5-9537b292e771"
+                                "lib/uuid": "a9d93b3c-09c6-4364-a5a5-a5541c50bccd"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "e2e210c9-a625-489b-b6c4-1a5859aa5b02",
+                                    "lib/uuid": "cddd4037-34da-4936-9a1c-a0c5da6f1e99",
                                     "effective-type": "type/DateTime"
                                 },
                                 31
@@ -449,7 +449,7 @@
                             "field",
                             {
                                 "base-type": "type/BigInteger",
-                                "lib/uuid": "28640921-edcf-45b6-94de-b4b0f5034e38",
+                                "lib/uuid": "0ece3ca0-9d3b-49a7-80bc-77c85fe6f084",
                                 "effective-type": "type/BigInteger"
                             },
                             24
@@ -458,7 +458,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "ec4e4851-69ac-4d91-83da-95026300f08f",
+                                "lib/uuid": "144bb807-3c10-4cd7-8df5-957649b23eb7",
                                 "effective-type": "type/Text"
                             },
                             37
@@ -467,7 +467,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "244d3de1-a4c0-4c99-8203-274f0f941de1",
+                                "lib/uuid": "ad0d70d2-3fc6-4fe1-b646-2ee3e0339d38",
                                 "effective-type": "type/Text"
                             },
                             36
@@ -476,7 +476,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "0485897f-734b-418d-8458-bcc506a7b1fc",
+                                "lib/uuid": "9f4dc113-8dd2-45ff-b9e1-27a2ecf0ff90",
                                 "effective-type": "type/Text"
                             },
                             43
@@ -485,7 +485,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "dc084a88-cfca-41f9-bca4-dcd1c1676887",
+                                "lib/uuid": "9686fa3b-2101-437a-8f40-37aa9c386bf7",
                                 "effective-type": "type/Text"
                             },
                             41
@@ -494,7 +494,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "59618b25-225d-4e16-bbd3-5128485c1c0a",
+                                "lib/uuid": "b005c9c4-460b-4c90-aee2-f8c03948a09e",
                                 "effective-type": "type/DateTime"
                             },
                             31
@@ -503,7 +503,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "55d28ad8-33c5-4300-ade4-63625addd661",
+                                "lib/uuid": "4f631ecd-0629-4d1e-8892-aaf5eb566493",
                                 "effective-type": "type/DateTime"
                             },
                             40
@@ -512,7 +512,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "39784b9e-8058-4f48-a13e-4ffd0ecdb1e2",
+                                "lib/uuid": "c5e2e558-5cb9-4d64-885a-a6dc18902f70",
                                 "effective-type": "type/DateTime"
                             },
                             39
@@ -521,7 +521,7 @@
                             "field",
                             {
                                 "base-type": "type/Boolean",
-                                "lib/uuid": "f90cc3c2-88a2-4555-aac7-a8b1c572683c",
+                                "lib/uuid": "fb8b5be3-8100-4c6e-86fa-2af7e6b51591",
                                 "effective-type": "type/Boolean"
                             },
                             38
@@ -530,7 +530,7 @@
                             "field",
                             {
                                 "base-type": "type/Boolean",
-                                "lib/uuid": "3c40b1e6-ecf0-4dcb-b6cb-eebd26db8716",
+                                "lib/uuid": "1e6e7b37-12d0-4cbc-8f59-e5256e0850b9",
                                 "effective-type": "type/Boolean"
                             },
                             42
@@ -541,13 +541,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "046c253c-0aa0-446d-9edb-59f25d61eec2"
+                                "lib/uuid": "7e7389da-e509-4fd1-a415-439f9184eba3"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "d7f6022c-b04f-496b-9594-1a96e723ba2c",
+                                    "lib/uuid": "e3d080a4-62a7-45a3-ac45-f7d209d58637",
                                     "effective-type": "type/DateTime"
                                 },
                                 31
@@ -698,13 +698,13 @@
                         [
                             "avg",
                             {
-                                "lib/uuid": "0247fb6b-e3e1-402f-9c8e-f1ef56a7f49e"
+                                "lib/uuid": "5688f7f4-8665-4db4-b450-9e20345a4e7a"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "511ed9d7-222d-43eb-aaa2-1c378fc90eb6",
+                                    "lib/uuid": "059bf0b0-852e-4756-a79d-b05df3cce122",
                                     "effective-type": "type/Float"
                                 },
                                 16
@@ -957,14 +957,14 @@
                         [
                             "desc",
                             {
-                                "lib/uuid": "468adbb3-933f-4e83-9317-3e3b10299912"
+                                "lib/uuid": "b1078f2a-3f83-4990-bc92-60b1211c7abc"
                             },
                             [
                                 "aggregation",
                                 {
-                                    "lib/uuid": "321cccaf-44d1-46d9-8795-22928dd2ee58"
+                                    "lib/uuid": "21b39b9f-c178-49aa-90e2-9fa0eb60ffb1"
                                 },
-                                "6af1efce-3435-4652-b769-132415743863"
+                                "61f37988-5673-496b-b06e-92a120274f49"
                             ]
                         ]
                     ],
@@ -972,7 +972,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "6af1efce-3435-4652-b769-132415743863"
+                                "lib/uuid": "61f37988-5673-496b-b06e-92a120274f49"
                             }
                         ]
                     ],
@@ -982,7 +982,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "23176a1d-a10f-42c5-b8bd-0373f9487766",
+                                "lib/uuid": "8e54ce87-79cf-46ee-b9a5-0b3b0e1e7842",
                                 "effective-type": "type/Text"
                             },
                             17
@@ -992,7 +992,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "706754d2-6e9c-420a-9e35-ab2f57516bbe",
+                                "lib/uuid": "961b7aa5-5c70-4d5d-927c-6ff9600bbce6",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -1003,14 +1003,14 @@
                         [
                             "!=",
                             {
-                                "lib/uuid": "0dcad595-0fd4-4438-8ab0-0f45aefb3d4d"
+                                "lib/uuid": "78cab6a6-56c9-45d7-909b-18044df82604"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
                                     "source-field": 14,
-                                    "lib/uuid": "f67366d6-218f-4648-a3a4-85a093fe119e",
+                                    "lib/uuid": "823a321d-94f0-4eeb-ba7c-bf1cae2fd9bd",
                                     "effective-type": "type/Text"
                                 },
                                 17
@@ -1025,13 +1025,13 @@
                         [
                             ">=",
                             {
-                                "lib/uuid": "cb41166b-ba9f-4e73-b838-d69531e380c9"
+                                "lib/uuid": "658e8dd9-8400-4aec-8918-a4f9260266c8"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "00f227cc-a401-48e4-8665-004d0a87db05"
+                                    "lib/uuid": "7a635a5a-17d8-4e9a-aece-6d18830a7d62"
                                 },
                                 "count"
                             ],
@@ -1097,7 +1097,7 @@
         "cache_invalidated_at": null,
         "description": null,
         "archived": false,
-        "view_count": 10,
+        "view_count": 11,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 14,
@@ -1186,7 +1186,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -1203,7 +1203,7 @@
         "query_type": "query",
         "name": "Cant OS por Clas. Triage",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:43:01.522986Z",
+        "last_used_at": "2026-01-08T22:54:47.152645Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:13:52.547139Z",
@@ -1346,7 +1346,7 @@
         "cache_invalidated_at": "2026-01-08T22:25:45.155003Z",
         "description": null,
         "archived": false,
-        "view_count": 7,
+        "view_count": 9,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 30,
@@ -1435,7 +1435,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -1452,7 +1452,7 @@
         "query_type": "query",
         "name": "Cant OS por Clas. Triage - Ind #2",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:31:18.636212Z",
+        "last_used_at": "2026-01-09T02:17:41.918131Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:25:45.157933Z",
@@ -1592,10 +1592,259 @@
         "public_uuid": null
     },
     {
+        "cache_invalidated_at": "2026-01-09T02:20:05.901011Z",
+        "description": null,
+        "archived": false,
+        "view_count": 3,
+        "collection_position": null,
+        "source_card_id": null,
+        "table_id": 22,
+        "result_metadata": [
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 16,
+                "lib/deduplicated-name": "color_triage",
+                "lib/original-name": "color_triage",
+                "lib/breakout?": true,
+                "name": "color_triage",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "color_triage",
+                "lib/original-display-name": "Color Triage",
+                "source": "breakout",
+                "fk_field_id": 133,
+                "field_ref": [
+                    "field",
+                    90,
+                    {
+                        "source-field": 133
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 90,
+                "lib/desired-column-alias": "clasificacion_triage__via__id_clas_triage__color_triage",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Clas Triage → Color Triage",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 6,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 5.5
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "int8",
+                "semantic_type": "type/Quantity",
+                "lib/deduplicated-name": "count",
+                "lib/original-name": "count",
+                "name": "count",
+                "lib/source": "source/aggregations",
+                "lib/source-column-alias": "count",
+                "source": "aggregation",
+                "field_ref": [
+                    "aggregation",
+                    0
+                ],
+                "effective_type": "type/BigInteger",
+                "lib/desired-column-alias": "count",
+                "display_name": "Contar",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 6,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Number": {
+                            "min": 1646.0,
+                            "q1": 1650.0,
+                            "q3": 1677.0,
+                            "max": 1714.0,
+                            "sd": 25.625508125043424,
+                            "avg": 1666.6666666666667
+                        }
+                    }
+                },
+                "base_type": "type/BigInteger"
+            }
+        ],
+        "embedding_type": null,
+        "dependency_analysis_version": 0,
+        "creator": {
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_login": "2026-01-09T02:26:47.501556Z",
+            "is_qbnewb": false,
+            "is_superuser": true,
+            "id": 1,
+            "last_name": "Torres",
+            "tenant_id": null,
+            "date_joined": "2026-01-08T21:46:28.292004Z",
+            "common_name": "Agustin Torres"
+        },
+        "initially_published_at": null,
+        "card_schema": 23,
+        "database_id": 2,
+        "enable_embedding": false,
+        "collection_id": 5,
+        "query_type": "query",
+        "name": "Cant OS por Clas. Triage - Ind #3",
+        "document_id": null,
+        "last_used_at": "2026-01-09T02:20:07.783055Z",
+        "type": "question",
+        "creator_id": 1,
+        "updated_at": "2026-01-09T02:20:05.90308Z",
+        "made_public_by_id": null,
+        "embedding_params": null,
+        "cache_ttl": null,
+        "dataset_query": {
+            "lib/type": "mbql/query",
+            "database": 2,
+            "stages": [
+                {
+                    "source-table": 22,
+                    "aggregation": [
+                        [
+                            "count",
+                            {
+                                "lib/uuid": "131ef171-2c7e-49e7-8e0d-09a3b5cda6b6"
+                            }
+                        ]
+                    ],
+                    "lib/type": "mbql.stage/mbql",
+                    "breakout": [
+                        [
+                            "field",
+                            {
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "lib/uuid": "655aa25a-de82-4fbc-adde-b56dd515afd8",
+                                "source-field": 133
+                            },
+                            90
+                        ]
+                    ]
+                }
+            ]
+        },
+        "id": 51,
+        "legacy_query": null,
+        "parameter_mappings": [],
+        "display": "pie",
+        "archived_directly": false,
+        "entity_id": "zPzzm_ZtsURziMY-hKpSE",
+        "collection_preview": true,
+        "last-edit-info": {
+            "id": 1,
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_name": "Torres",
+            "timestamp": "2026-01-09T02:20:05.91428Z"
+        },
+        "visualization_settings": {
+            "pie.rows": [
+                {
+                    "key": "AMARILLO",
+                    "name": "AMARILLO",
+                    "originalName": "AMARILLO",
+                    "color": "#F7C41F",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "NARANJA",
+                    "name": "NARANJA",
+                    "originalName": "NARANJA",
+                    "color": "#ED8535",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "ROJO",
+                    "name": "ROJO",
+                    "originalName": "ROJO",
+                    "color": "#E75454",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "VACIO",
+                    "name": "VACIO",
+                    "originalName": "VACIO",
+                    "color": "#F2F2F3",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "AZUL",
+                    "name": "AZUL",
+                    "originalName": "AZUL",
+                    "color": "#227FD2",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "VERDE",
+                    "name": "VERDE",
+                    "originalName": "VERDE",
+                    "color": "#88BF4D",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                }
+            ]
+        },
+        "collection": {
+            "authority_level": null,
+            "description": null,
+            "archived": false,
+            "slug": "cubos",
+            "archive_operation_id": null,
+            "name": "Cubos",
+            "is_remote_synced": false,
+            "personal_owner_id": null,
+            "type": null,
+            "is_sample": false,
+            "id": 5,
+            "archived_directly": null,
+            "entity_id": "G_Y_5vyHjNW902f_82W0i",
+            "location": "/",
+            "namespace": null,
+            "created_at": "2026-01-08T21:54:17.3428Z"
+        },
+        "metabase_version": "v0.58.1 (7fbf305)",
+        "parameters": [],
+        "dashboard_id": 4,
+        "created_at": "2026-01-09T02:16:57.286147Z",
+        "public_uuid": null
+    },
+    {
         "cache_invalidated_at": null,
         "description": null,
         "archived": false,
-        "view_count": 9,
+        "view_count": 10,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 14,
@@ -1684,7 +1933,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -1701,7 +1950,7 @@
         "query_type": "query",
         "name": "Cant OS por Rango Sinadi",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:43:01.522986Z",
+        "last_used_at": "2026-01-08T22:54:47.152645Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:15:08.988765Z",
@@ -1781,7 +2030,7 @@
         "cache_invalidated_at": "2026-01-08T22:27:34.046271Z",
         "description": null,
         "archived": false,
-        "view_count": 8,
+        "view_count": 10,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 30,
@@ -1870,7 +2119,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -1887,7 +2136,7 @@
         "query_type": "query",
         "name": "Cant OS por Rango Sinadi -Ind #2",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:31:18.636212Z",
+        "last_used_at": "2026-01-09T02:17:41.918131Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:27:34.04902Z",
@@ -1964,10 +2213,196 @@
         "public_uuid": null
     },
     {
+        "cache_invalidated_at": "2026-01-09T02:20:51.997866Z",
+        "description": null,
+        "archived": false,
+        "view_count": 3,
+        "collection_position": null,
+        "source_card_id": null,
+        "table_id": 22,
+        "result_metadata": [
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 18,
+                "lib/deduplicated-name": "rango_sinadi",
+                "lib/original-name": "rango_sinadi",
+                "lib/breakout?": true,
+                "name": "rango_sinadi",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "rango_sinadi",
+                "lib/original-display-name": "Rango Sinadi",
+                "source": "breakout",
+                "fk_field_id": 131,
+                "field_ref": [
+                    "field",
+                    100,
+                    {
+                        "source-field": 131
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 100,
+                "lib/desired-column-alias": "edad__via__id_edad__rango_sinadi",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Edad → Rango Sinadi",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 9,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 7.666666666666667
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "int8",
+                "semantic_type": "type/Quantity",
+                "lib/deduplicated-name": "count",
+                "lib/original-name": "count",
+                "name": "count",
+                "lib/source": "source/aggregations",
+                "lib/source-column-alias": "count",
+                "source": "aggregation",
+                "field_ref": [
+                    "aggregation",
+                    0
+                ],
+                "effective_type": "type/BigInteger",
+                "lib/desired-column-alias": "count",
+                "display_name": "Contar",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 9,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Number": {
+                            "min": 1070.0,
+                            "q1": 1092.5,
+                            "q3": 1127.25,
+                            "max": 1161.0,
+                            "sd": 27.319610376268386,
+                            "avg": 1111.111111111111
+                        }
+                    }
+                },
+                "base_type": "type/BigInteger"
+            }
+        ],
+        "embedding_type": null,
+        "dependency_analysis_version": 0,
+        "creator": {
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_login": "2026-01-09T02:26:47.501556Z",
+            "is_qbnewb": false,
+            "is_superuser": true,
+            "id": 1,
+            "last_name": "Torres",
+            "tenant_id": null,
+            "date_joined": "2026-01-08T21:46:28.292004Z",
+            "common_name": "Agustin Torres"
+        },
+        "initially_published_at": null,
+        "card_schema": 23,
+        "database_id": 2,
+        "enable_embedding": false,
+        "collection_id": 5,
+        "query_type": "query",
+        "name": "Cant OS por Rango Sinadi -Ind #3",
+        "document_id": null,
+        "last_used_at": "2026-01-09T02:20:53.549127Z",
+        "type": "question",
+        "creator_id": 1,
+        "updated_at": "2026-01-09T02:20:52.000087Z",
+        "made_public_by_id": null,
+        "embedding_params": null,
+        "cache_ttl": null,
+        "dataset_query": {
+            "lib/type": "mbql/query",
+            "database": 2,
+            "stages": [
+                {
+                    "source-table": 22,
+                    "aggregation": [
+                        [
+                            "count",
+                            {
+                                "lib/uuid": "b4b2f04b-fc8e-4aab-a0fd-5949101ea6b2"
+                            }
+                        ]
+                    ],
+                    "lib/type": "mbql.stage/mbql",
+                    "breakout": [
+                        [
+                            "field",
+                            {
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "lib/uuid": "8e3112a6-5662-4549-9370-18b6d7546cac",
+                                "source-field": 131
+                            },
+                            100
+                        ]
+                    ]
+                }
+            ]
+        },
+        "id": 52,
+        "legacy_query": null,
+        "parameter_mappings": [],
+        "display": "pie",
+        "archived_directly": false,
+        "entity_id": "_CbAlhi4BxG3RIVQQqSgj",
+        "collection_preview": true,
+        "last-edit-info": {
+            "id": 1,
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_name": "Torres",
+            "timestamp": "2026-01-09T02:20:52.013275Z"
+        },
+        "visualization_settings": {},
+        "collection": {
+            "authority_level": null,
+            "description": null,
+            "archived": false,
+            "slug": "cubos",
+            "archive_operation_id": null,
+            "name": "Cubos",
+            "is_remote_synced": false,
+            "personal_owner_id": null,
+            "type": null,
+            "is_sample": false,
+            "id": 5,
+            "archived_directly": null,
+            "entity_id": "G_Y_5vyHjNW902f_82W0i",
+            "location": "/",
+            "namespace": null,
+            "created_at": "2026-01-08T21:54:17.3428Z"
+        },
+        "metabase_version": "v0.58.1 (7fbf305)",
+        "parameters": [],
+        "dashboard_id": 4,
+        "created_at": "2026-01-09T02:16:57.286147Z",
+        "public_uuid": null
+    },
+    {
         "cache_invalidated_at": null,
         "description": null,
         "archived": false,
-        "view_count": 11,
+        "view_count": 12,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 14,
@@ -2056,7 +2491,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -2073,7 +2508,7 @@
         "query_type": "query",
         "name": "Cant OS por sexo",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:43:01.522986Z",
+        "last_used_at": "2026-01-08T22:54:47.152645Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:12:03.715594Z",
@@ -2176,7 +2611,7 @@
         "cache_invalidated_at": "2026-01-08T22:26:10.350641Z",
         "description": null,
         "archived": false,
-        "view_count": 9,
+        "view_count": 11,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 30,
@@ -2265,7 +2700,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -2282,7 +2717,7 @@
         "query_type": "query",
         "name": "Cant OS por sexo - Ind #2",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:31:18.636212Z",
+        "last_used_at": "2026-01-09T02:17:41.918131Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:26:10.353612Z",
@@ -2382,10 +2817,219 @@
         "public_uuid": null
     },
     {
+        "cache_invalidated_at": "2026-01-09T02:19:10.702225Z",
+        "description": null,
+        "archived": false,
+        "view_count": 3,
+        "collection_position": null,
+        "source_card_id": null,
+        "table_id": 22,
+        "result_metadata": [
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 24,
+                "lib/deduplicated-name": "sexo",
+                "lib/original-name": "sexo",
+                "lib/breakout?": true,
+                "name": "sexo",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "sexo",
+                "lib/original-display-name": "Sexo",
+                "source": "breakout",
+                "fk_field_id": 130,
+                "field_ref": [
+                    "field",
+                    250,
+                    {
+                        "source-field": 130
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 250,
+                "lib/desired-column-alias": "sexo__via__id_sexo__sexo",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Sexo → Sexo",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 2,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 8.5
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "int8",
+                "semantic_type": "type/Quantity",
+                "lib/deduplicated-name": "count",
+                "lib/original-name": "count",
+                "name": "count",
+                "lib/source": "source/aggregations",
+                "lib/source-column-alias": "count",
+                "source": "aggregation",
+                "field_ref": [
+                    "aggregation",
+                    0
+                ],
+                "effective_type": "type/BigInteger",
+                "lib/desired-column-alias": "count",
+                "display_name": "Contar",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 2,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Number": {
+                            "min": 4963.0,
+                            "q1": 4963.0,
+                            "q3": 5037.0,
+                            "max": 5037.0,
+                            "sd": 52.32590180780452,
+                            "avg": 5000.0
+                        }
+                    }
+                },
+                "base_type": "type/BigInteger"
+            }
+        ],
+        "embedding_type": null,
+        "dependency_analysis_version": 0,
+        "creator": {
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_login": "2026-01-09T02:26:47.501556Z",
+            "is_qbnewb": false,
+            "is_superuser": true,
+            "id": 1,
+            "last_name": "Torres",
+            "tenant_id": null,
+            "date_joined": "2026-01-08T21:46:28.292004Z",
+            "common_name": "Agustin Torres"
+        },
+        "initially_published_at": null,
+        "card_schema": 23,
+        "database_id": 2,
+        "enable_embedding": false,
+        "collection_id": 5,
+        "query_type": "query",
+        "name": "Cant OS por sexo - Ind #3",
+        "document_id": null,
+        "last_used_at": "2026-01-09T02:19:12.903174Z",
+        "type": "question",
+        "creator_id": 1,
+        "updated_at": "2026-01-09T02:19:10.704196Z",
+        "made_public_by_id": null,
+        "embedding_params": null,
+        "cache_ttl": null,
+        "dataset_query": {
+            "lib/type": "mbql/query",
+            "database": 2,
+            "stages": [
+                {
+                    "source-table": 22,
+                    "aggregation": [
+                        [
+                            "count",
+                            {
+                                "lib/uuid": "a9bb1d4e-7995-47b7-93c1-3f60ce752adc"
+                            }
+                        ]
+                    ],
+                    "lib/type": "mbql.stage/mbql",
+                    "breakout": [
+                        [
+                            "field",
+                            {
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "lib/uuid": "f0c340f7-73fe-4a76-91f8-5912005d60b8",
+                                "source-field": 130
+                            },
+                            250
+                        ]
+                    ]
+                }
+            ]
+        },
+        "id": 50,
+        "legacy_query": null,
+        "parameter_mappings": [],
+        "display": "pie",
+        "archived_directly": false,
+        "entity_id": "krKHqHeJijJeDh9tGzqrm",
+        "collection_preview": true,
+        "last-edit-info": {
+            "id": 1,
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_name": "Torres",
+            "timestamp": "2026-01-09T02:19:10.715409Z"
+        },
+        "visualization_settings": {
+            "pie.rows": [
+                {
+                    "key": "true",
+                    "name": "true",
+                    "originalName": "true",
+                    "color": "#88BF4D",
+                    "defaultColor": false,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                },
+                {
+                    "key": "false",
+                    "name": "false",
+                    "originalName": "false",
+                    "color": "#EF8C8C",
+                    "defaultColor": true,
+                    "enabled": true,
+                    "hidden": false,
+                    "isOther": false
+                }
+            ]
+        },
+        "collection": {
+            "authority_level": null,
+            "description": null,
+            "archived": false,
+            "slug": "cubos",
+            "archive_operation_id": null,
+            "name": "Cubos",
+            "is_remote_synced": false,
+            "personal_owner_id": null,
+            "type": null,
+            "is_sample": false,
+            "id": 5,
+            "archived_directly": null,
+            "entity_id": "G_Y_5vyHjNW902f_82W0i",
+            "location": "/",
+            "namespace": null,
+            "created_at": "2026-01-08T21:54:17.3428Z"
+        },
+        "metabase_version": "v0.58.1 (7fbf305)",
+        "parameters": [],
+        "dashboard_id": 4,
+        "created_at": "2026-01-09T02:16:57.286147Z",
+        "public_uuid": null
+    },
+    {
         "cache_invalidated_at": "2026-01-08T22:30:49.816058Z",
         "description": null,
         "archived": false,
-        "view_count": 9,
+        "view_count": 10,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 14,
@@ -2518,7 +3162,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -2535,7 +3179,7 @@
         "query_type": "query",
         "name": "Cant OS por sexo y rango sinadi",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:43:01.522986Z",
+        "last_used_at": "2026-01-08T22:54:47.152645Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:30:49.818999Z",
@@ -2631,13 +3275,13 @@
         "public_uuid": null
     },
     {
-        "cache_invalidated_at": "2026-01-08T22:30:08.763521Z",
+        "cache_invalidated_at": "2026-01-09T02:22:49.042713Z",
         "description": null,
         "archived": false,
-        "view_count": 7,
+        "view_count": 12,
         "collection_position": null,
         "source_card_id": null,
-        "table_id": 14,
+        "table_id": 30,
         "result_metadata": [
             {
                 "database_type": "varchar",
@@ -2651,12 +3295,12 @@
                 "lib/source-column-alias": "rango_sinadi",
                 "lib/original-display-name": "Rango Sinadi",
                 "source": "breakout",
-                "fk_field_id": 104,
+                "fk_field_id": 224,
                 "field_ref": [
                     "field",
                     100,
                     {
-                        "source-field": 104
+                        "source-field": 224
                     }
                 ],
                 "effective_type": "type/Text",
@@ -2695,12 +3339,12 @@
                 "lib/source-column-alias": "sexo",
                 "lib/original-display-name": "Sexo",
                 "source": "breakout",
-                "fk_field_id": 103,
+                "fk_field_id": 223,
                 "field_ref": [
                     "field",
                     250,
                     {
-                        "source-field": 103
+                        "source-field": 223
                     }
                 ],
                 "effective_type": "type/Text",
@@ -2750,11 +3394,11 @@
                     },
                     "type": {
                         "type/Number": {
-                            "min": 510.0,
-                            "q1": 542.0,
-                            "q3": 567.0,
-                            "max": 605.0,
-                            "sd": 24.156894575991252,
+                            "min": 514.0,
+                            "q1": 543.0,
+                            "q3": 570.0,
+                            "max": 607.0,
+                            "sd": 21.95241437136303,
                             "avg": 555.5555555555555
                         }
                     }
@@ -2767,7 +3411,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -2784,10 +3428,10 @@
         "query_type": "query",
         "name": "Cant OS por sexo y rango sinadi - Ind #2",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:31:18.636212Z",
+        "last_used_at": "2026-01-09T02:25:48.314476Z",
         "type": "question",
         "creator_id": 1,
-        "updated_at": "2026-01-08T22:30:08.768625Z",
+        "updated_at": "2026-01-09T02:22:49.045051Z",
         "made_public_by_id": null,
         "embedding_params": null,
         "cache_ttl": null,
@@ -2796,34 +3440,34 @@
             "database": 2,
             "stages": [
                 {
-                    "source-table": 14,
+                    "lib/type": "mbql.stage/mbql",
+                    "source-table": 30,
                     "aggregation": [
                         [
                             "count",
                             {
-                                "lib/uuid": "2cf35ab1-ccb6-4b7a-9404-111c5d65d703"
+                                "lib/uuid": "805dafe4-b11c-40ef-8a37-75386487e85a"
                             }
                         ]
                     ],
-                    "lib/type": "mbql.stage/mbql",
                     "breakout": [
                         [
                             "field",
                             {
+                                "lib/uuid": "754f55cc-a975-4610-8325-e1992c7268e6",
                                 "effective-type": "type/Text",
                                 "base-type": "type/Text",
-                                "lib/uuid": "a1b68573-01fc-4c6e-8c27-e9220afcf4e6",
-                                "source-field": 104
+                                "source-field": 224
                             },
                             100
                         ],
                         [
                             "field",
                             {
-                                "base-type": "type/Text",
-                                "lib/uuid": "b81ea4fe-cefe-43d3-9677-5f8c7c909863",
                                 "effective-type": "type/Text",
-                                "source-field": 103
+                                "base-type": "type/Text",
+                                "lib/uuid": "a69e03ba-3af9-4420-bfba-927ba5b3461b",
+                                "source-field": 223
                             },
                             250
                         ]
@@ -2843,7 +3487,7 @@
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
             "last_name": "Torres",
-            "timestamp": "2026-01-08T22:30:08.798Z"
+            "timestamp": "2026-01-09T02:22:49.057878Z"
         },
         "visualization_settings": {
             "graph.x_axis.scale": "ordinal",
@@ -2877,6 +3521,255 @@
         "parameters": [],
         "dashboard_id": 3,
         "created_at": "2026-01-08T22:21:29.691969Z",
+        "public_uuid": null
+    },
+    {
+        "cache_invalidated_at": "2026-01-09T02:22:09.183258Z",
+        "description": null,
+        "archived": false,
+        "view_count": 3,
+        "collection_position": null,
+        "source_card_id": null,
+        "table_id": 22,
+        "result_metadata": [
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 18,
+                "lib/deduplicated-name": "rango_sinadi",
+                "lib/original-name": "rango_sinadi",
+                "lib/breakout?": true,
+                "name": "rango_sinadi",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "rango_sinadi",
+                "lib/original-display-name": "Rango Sinadi",
+                "source": "breakout",
+                "fk_field_id": 131,
+                "field_ref": [
+                    "field",
+                    100,
+                    {
+                        "source-field": 131
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 100,
+                "lib/desired-column-alias": "edad__via__id_edad__rango_sinadi",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Edad → Rango Sinadi",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 9,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 7.666666666666667
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 24,
+                "lib/deduplicated-name": "sexo",
+                "lib/original-name": "sexo",
+                "lib/breakout?": true,
+                "name": "sexo",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "sexo",
+                "lib/original-display-name": "Sexo",
+                "source": "breakout",
+                "fk_field_id": 130,
+                "field_ref": [
+                    "field",
+                    250,
+                    {
+                        "source-field": 130
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 250,
+                "lib/desired-column-alias": "sexo__via__id_sexo__sexo",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Sexo → Sexo",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 2,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 8.5
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "int8",
+                "semantic_type": "type/Quantity",
+                "lib/deduplicated-name": "count",
+                "lib/original-name": "count",
+                "name": "count",
+                "lib/source": "source/aggregations",
+                "lib/source-column-alias": "count",
+                "source": "aggregation",
+                "field_ref": [
+                    "aggregation",
+                    0
+                ],
+                "effective_type": "type/BigInteger",
+                "lib/desired-column-alias": "count",
+                "display_name": "Contar",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 16,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Number": {
+                            "min": 502.0,
+                            "q1": 547.0,
+                            "q3": 565.5278640450005,
+                            "max": 592.0,
+                            "sd": 18.94332793367138,
+                            "avg": 555.5555555555555
+                        }
+                    }
+                },
+                "base_type": "type/BigInteger"
+            }
+        ],
+        "embedding_type": null,
+        "dependency_analysis_version": 0,
+        "creator": {
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_login": "2026-01-09T02:26:47.501556Z",
+            "is_qbnewb": false,
+            "is_superuser": true,
+            "id": 1,
+            "last_name": "Torres",
+            "tenant_id": null,
+            "date_joined": "2026-01-08T21:46:28.292004Z",
+            "common_name": "Agustin Torres"
+        },
+        "initially_published_at": null,
+        "card_schema": 23,
+        "database_id": 2,
+        "enable_embedding": false,
+        "collection_id": 5,
+        "query_type": "query",
+        "name": "Cant OS por sexo y rango sinadi - Ind #3",
+        "document_id": null,
+        "last_used_at": "2026-01-09T02:22:11.08392Z",
+        "type": "question",
+        "creator_id": 1,
+        "updated_at": "2026-01-09T02:22:09.185422Z",
+        "made_public_by_id": null,
+        "embedding_params": null,
+        "cache_ttl": null,
+        "dataset_query": {
+            "lib/type": "mbql/query",
+            "database": 2,
+            "stages": [
+                {
+                    "source-table": 22,
+                    "aggregation": [
+                        [
+                            "count",
+                            {
+                                "lib/uuid": "637e332d-a1ff-41b4-a00c-225912c16925"
+                            }
+                        ]
+                    ],
+                    "lib/type": "mbql.stage/mbql",
+                    "breakout": [
+                        [
+                            "field",
+                            {
+                                "lib/uuid": "dc7f8eae-a848-4ba2-bc47-b9a57c67d325",
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "source-field": 131
+                            },
+                            100
+                        ],
+                        [
+                            "field",
+                            {
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "lib/uuid": "317dd22a-02d2-4439-a420-09d2cbe8a8cf",
+                                "source-field": 130
+                            },
+                            250
+                        ]
+                    ]
+                }
+            ]
+        },
+        "id": 53,
+        "legacy_query": null,
+        "parameter_mappings": [],
+        "display": "pie",
+        "archived_directly": false,
+        "entity_id": "3wIrKt3rEq2HPENJw3oPC",
+        "collection_preview": true,
+        "last-edit-info": {
+            "id": 1,
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_name": "Torres",
+            "timestamp": "2026-01-09T02:22:09.20309Z"
+        },
+        "visualization_settings": {
+            "graph.x_axis.scale": "ordinal",
+            "graph.dimensions": [
+                "rango_sinadi",
+                "sexo"
+            ],
+            "graph.metrics": [
+                "count"
+            ]
+        },
+        "collection": {
+            "authority_level": null,
+            "description": null,
+            "archived": false,
+            "slug": "cubos",
+            "archive_operation_id": null,
+            "name": "Cubos",
+            "is_remote_synced": false,
+            "personal_owner_id": null,
+            "type": null,
+            "is_sample": false,
+            "id": 5,
+            "archived_directly": null,
+            "entity_id": "G_Y_5vyHjNW902f_82W0i",
+            "location": "/",
+            "namespace": null,
+            "created_at": "2026-01-08T21:54:17.3428Z"
+        },
+        "metabase_version": "v0.58.1 (7fbf305)",
+        "parameters": [],
+        "dashboard_id": 4,
+        "created_at": "2026-01-09T02:16:57.286147Z",
         "public_uuid": null
     },
     {
@@ -2962,7 +3855,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "056d5741-36a2-4039-a418-1bf5f2a71a1d",
+                                "lib/uuid": "7939774f-ecc9-4883-a573-7bee90204e03",
                                 "effective-type": "type/Text"
                             },
                             29
@@ -2972,7 +3865,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "f3876b95-fa5b-49b8-84ce-08a9af755f9b"
+                                "lib/uuid": "28033310-37c9-4037-8405-cb3006c18f53"
                             }
                         ]
                     ],
@@ -2984,13 +3877,13 @@
                         [
                             "not-empty",
                             {
-                                "lib/uuid": "88d859df-2155-4d51-bf52-5994c683cf59"
+                                "lib/uuid": "13c92868-57d7-4e78-a848-df6de103c7d8"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "c3b1a915-53bc-45f1-b480-741b5ac3d17a"
+                                    "lib/uuid": "3af309c8-0983-4f18-807d-7afbd3d898ef"
                                 },
                                 "BUTTON_LABEL"
                             ]
@@ -3145,7 +4038,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "5306d4ab-c808-4dc4-aa40-5bb4e97cfd30",
+                                "lib/uuid": "0d85bb3d-dfb6-4920-b995-09d8e6df24ca",
                                 "effective-type": "type/Text"
                             },
                             29
@@ -3155,7 +4048,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "ea5e2683-1995-4490-bb36-ef1a91eb3642"
+                                "lib/uuid": "5a27678f-f6e0-4e80-82e7-aab9085dfb01"
                             }
                         ]
                     ],
@@ -3167,13 +4060,13 @@
                         [
                             "not-empty",
                             {
-                                "lib/uuid": "ea7d4d87-4bba-450b-8f8b-ca46bb6748ea"
+                                "lib/uuid": "dd473d33-0cf3-4f3c-aecb-3b0cf7dc8aea"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "de31d1ec-0035-4d71-86ab-39bfa8121087"
+                                    "lib/uuid": "a816bce8-6542-4af3-9e30-1ee90a68e218"
                                 },
                                 "BUTTON_LABEL"
                             ]
@@ -3346,7 +4239,7 @@
                         [
                             "desc",
                             {
-                                "lib/uuid": "1a39a548-8bdc-4d4b-ae9a-c417bfc630b7"
+                                "lib/uuid": "6587e6a8-4e4c-4af2-923f-d86ae00d3818"
                             },
                             [
                                 "field",
@@ -3356,7 +4249,7 @@
                                     "binning": {
                                         "strategy": "default"
                                     },
-                                    "lib/uuid": "474abd85-1a39-4e98-b394-377e60835261",
+                                    "lib/uuid": "fe38d3b7-24bd-4cc8-b343-bbfe9d87d6b3",
                                     "effective-type": "type/Float"
                                 },
                                 16
@@ -3367,7 +4260,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "9e0a5a12-df2d-4af3-8184-fdf734f9044d"
+                                "lib/uuid": "91a64038-7fb7-4a64-994e-9c31be502cf7"
                             }
                         ]
                     ],
@@ -3377,7 +4270,7 @@
                             {
                                 "base-type": "type/Float",
                                 "source-field": 14,
-                                "lib/uuid": "f1e6f5ff-53b9-4d8b-a082-75d89b94316c",
+                                "lib/uuid": "78098d72-6e90-4dbc-85e4-71babd5eaaf6",
                                 "effective-type": "type/Float"
                             },
                             16
@@ -3387,7 +4280,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "2650ac49-e73d-4420-bdbb-bea04ae488b4",
+                                "lib/uuid": "6e3a371d-a6fe-4f65-85e8-cd2b8b919c16",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -3398,14 +4291,14 @@
                         [
                             "!=",
                             {
-                                "lib/uuid": "19791a91-70f6-4fff-94f0-d511dbd21aa4"
+                                "lib/uuid": "ca1da6c3-ca34-49e5-be7f-a7a78ed74e80"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
                                     "source-field": 14,
-                                    "lib/uuid": "8d9531ab-e3a8-44ef-8b30-b41a5d3bd019",
+                                    "lib/uuid": "ba201328-37e7-4051-bd8a-888f778997d9",
                                     "effective-type": "type/Text"
                                 },
                                 17
@@ -3652,13 +4545,13 @@
                         [
                             "desc",
                             {
-                                "lib/uuid": "07914179-9b18-4b1b-91e8-ff61c8e39317"
+                                "lib/uuid": "adcfc38b-a0f8-4002-8e62-e8ba2c44d170"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "8eee0d62-2f78-47ec-af9e-7cd39f5a34f0",
+                                    "lib/uuid": "898bc7ba-f4a4-4662-b032-b8ef529075a4",
                                     "effective-type": "type/DateTime"
                                 },
                                 27
@@ -3670,13 +4563,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "af448989-34dc-4619-9da4-57a65110c9d2"
+                                "lib/uuid": "9b5128f0-d378-454c-a600-7f8e038e8ba8"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "0c898e18-9262-4df4-b054-7084a440f1e9",
+                                    "lib/uuid": "3ca1ada1-3dea-4003-bee5-6aac20c2231c",
                                     "effective-type": "type/DateTime"
                                 },
                                 27
@@ -3890,13 +4783,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "1fa5f744-4d77-4157-9013-20f7c9fa821e"
+                                "lib/uuid": "823043fa-d1ba-47db-9fa0-9b27d8240881"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "43abf73a-cb9a-4aa0-bde5-ab8fc58b2609",
+                                    "lib/uuid": "41194530-4aba-4bc3-8256-0453d5c214b4",
                                     "effective-type": "type/Float"
                                 },
                                 3
@@ -3909,7 +4802,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "840863d7-6870-45af-a9a9-686b42329947",
+                                "lib/uuid": "83dc7731-0da3-42f8-b5cc-074b53db48b6",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -3921,13 +4814,13 @@
                             "time-interval",
                             {
                                 "include-current": false,
-                                "lib/uuid": "98d1193e-3250-4b36-916b-aba6b16e17c8"
+                                "lib/uuid": "51fb473d-393e-4922-a8c5-cb0392be33ad"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "e50a9d00-0e70-4e09-8b2d-842e56a5c57f",
+                                    "lib/uuid": "5077a5b9-c94c-4d31-ab27-2127f9102b5d",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -4059,13 +4952,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "41d1ac5c-be35-467c-b917-78153d0d06e8"
+                                "lib/uuid": "c03e85a6-66fd-4cc0-a0b1-6aec4508ef53"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "52548a98-ea81-47b8-bfcd-53589d96b46d",
+                                    "lib/uuid": "6d9c3cc1-5b65-4aab-9b6b-f9495b10a4e8",
                                     "effective-type": "type/Integer"
                                 },
                                 2
@@ -4078,7 +4971,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "month",
-                                "lib/uuid": "b08c44d5-8c01-4cc1-b23e-4422e6fc5566",
+                                "lib/uuid": "3baacc8a-5004-4e02-8a34-8c6d6fddba6e",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -4089,13 +4982,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "550ca4c4-8f38-40e2-b69f-ca44c0dde972"
+                                "lib/uuid": "9c41af14-bbbe-4eb9-bccd-bf61c870a056"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "f14bdcf6-0131-414f-a0f2-620f118773e6",
+                                    "lib/uuid": "a564fbca-a6fe-430d-abad-845014f9cd82",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -4106,13 +4999,13 @@
                         [
                             "=",
                             {
-                                "lib/uuid": "d0df9781-a270-43a0-8295-ae20918e11b8"
+                                "lib/uuid": "f7dfdd0d-faec-431f-9154-70f242f9d22b"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "54d2ed36-aecd-44d8-a8e2-eed9da0b4aa7",
+                                    "lib/uuid": "4c041a27-9d84-4323-8bde-f8263487c382",
                                     "effective-type": "type/Integer"
                                 },
                                 14
@@ -4583,7 +5476,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -4660,10 +5553,272 @@
         "public_uuid": null
     },
     {
+        "cache_invalidated_at": "2026-01-09T02:18:33.923106Z",
+        "description": null,
+        "archived": false,
+        "view_count": 3,
+        "collection_position": null,
+        "source_card_id": null,
+        "table_id": 22,
+        "result_metadata": [
+            {
+                "database_type": "time",
+                "semantic_type": "type/PK",
+                "table_id": 15,
+                "lib/deduplicated-name": "horarios",
+                "lib/original-name": "horarios",
+                "lib/breakout?": true,
+                "unit": "hour",
+                "name": "horarios",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "horarios",
+                "lib/original-display-name": "Horarios",
+                "source": "breakout",
+                "fk_field_id": 137,
+                "field_ref": [
+                    "field",
+                    234,
+                    {
+                        "temporal-unit": "hour",
+                        "source-field": 137
+                    }
+                ],
+                "effective_type": "type/Time",
+                "active": true,
+                "id": 234,
+                "lib/desired-column-alias": "horario__via__horario_atencion__horarios",
+                "metabase.lib.field/temporal-unit": "hour",
+                "position": 0,
+                "visibility_type": "normal",
+                "inherited_temporal_unit": "hour",
+                "display_name": "Horario Atencion → Horarios: Hora",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 24,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/DateTime": {
+                            "earliest": "00:00:00",
+                            "latest": "23:00:00"
+                        }
+                    }
+                },
+                "base_type": "type/Time"
+            },
+            {
+                "database_type": "varchar",
+                "semantic_type": "type/Category",
+                "table_id": 27,
+                "lib/deduplicated-name": "dia_semana",
+                "lib/original-name": "dia_semana",
+                "lib/breakout?": true,
+                "name": "dia_semana",
+                "lib/source": "source/implicitly-joinable",
+                "lib/source-column-alias": "dia_semana",
+                "lib/original-display-name": "Dia Semana",
+                "source": "breakout",
+                "fk_field_id": 135,
+                "field_ref": [
+                    "field",
+                    98,
+                    {
+                        "source-field": 135
+                    }
+                ],
+                "effective_type": "type/Text",
+                "active": true,
+                "id": 98,
+                "lib/desired-column-alias": "dia_semana__via__id_dia_semana__dia_semana",
+                "position": 1,
+                "visibility_type": "normal",
+                "display_name": "ID Dia Semana → Dia Semana",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 7,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Text": {
+                            "percent-json": 0.0,
+                            "percent-url": 0.0,
+                            "percent-email": 0.0,
+                            "percent-state": 0.0,
+                            "average-length": 6.571428571428571
+                        }
+                    }
+                },
+                "base_type": "type/Text"
+            },
+            {
+                "database_type": "int8",
+                "semantic_type": "type/Quantity",
+                "lib/deduplicated-name": "count",
+                "lib/original-name": "count",
+                "name": "count",
+                "lib/source": "source/aggregations",
+                "lib/source-column-alias": "count",
+                "source": "aggregation",
+                "field_ref": [
+                    "aggregation",
+                    0
+                ],
+                "effective_type": "type/BigInteger",
+                "lib/desired-column-alias": "count",
+                "display_name": "Contar",
+                "fingerprint": {
+                    "global": {
+                        "distinct-count": 33,
+                        "nil%": 0.0
+                    },
+                    "type": {
+                        "type/Number": {
+                            "min": 41.0,
+                            "q1": 54.0,
+                            "q3": 64.17566719796157,
+                            "max": 86.0,
+                            "sd": 7.7636897680034185,
+                            "avg": 59.523809523809526
+                        }
+                    }
+                },
+                "base_type": "type/BigInteger"
+            }
+        ],
+        "embedding_type": null,
+        "dependency_analysis_version": 0,
+        "creator": {
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_login": "2026-01-09T02:26:47.501556Z",
+            "is_qbnewb": false,
+            "is_superuser": true,
+            "id": 1,
+            "last_name": "Torres",
+            "tenant_id": null,
+            "date_joined": "2026-01-08T21:46:28.292004Z",
+            "common_name": "Agustin Torres"
+        },
+        "initially_published_at": null,
+        "card_schema": 23,
+        "database_id": 2,
+        "enable_embedding": false,
+        "collection_id": 5,
+        "query_type": "query",
+        "name": "HeatMap OS Emergencia por dia y hora",
+        "document_id": null,
+        "last_used_at": "2026-01-09T02:18:35.282276Z",
+        "type": "question",
+        "creator_id": 1,
+        "updated_at": "2026-01-09T02:18:33.927978Z",
+        "made_public_by_id": null,
+        "embedding_params": null,
+        "cache_ttl": null,
+        "dataset_query": {
+            "lib/type": "mbql/query",
+            "database": 2,
+            "stages": [
+                {
+                    "aggregation": [
+                        [
+                            "count",
+                            {
+                                "lib/uuid": "af389d9c-6677-4604-b284-225cbebba91f"
+                            }
+                        ]
+                    ],
+                    "lib/type": "mbql.stage/mbql",
+                    "source-table": 22,
+                    "breakout": [
+                        [
+                            "field",
+                            {
+                                "lib/uuid": "97dc5eb1-357a-4606-8c19-0f2bdd7cabfd",
+                                "effective-type": "type/Time",
+                                "base-type": "type/Time",
+                                "temporal-unit": "hour",
+                                "source-field": 137
+                            },
+                            234
+                        ],
+                        [
+                            "field",
+                            {
+                                "lib/uuid": "34b5a192-4e6d-4e15-a339-a7e81931ffe9",
+                                "effective-type": "type/Text",
+                                "base-type": "type/Text",
+                                "source-field": 135
+                            },
+                            98
+                        ]
+                    ]
+                }
+            ]
+        },
+        "id": 49,
+        "legacy_query": null,
+        "parameter_mappings": [],
+        "display": "table",
+        "archived_directly": false,
+        "entity_id": "7YzYplyHLWUE4vV0V1EmU",
+        "collection_preview": true,
+        "last-edit-info": {
+            "id": 1,
+            "email": "agustintorres1701@gmail.com",
+            "first_name": "Agustin",
+            "last_name": "Torres",
+            "timestamp": "2026-01-09T02:18:33.943976Z"
+        },
+        "visualization_settings": {
+            "table.column_formatting": [
+                {
+                    "columns": [
+                        "count"
+                    ],
+                    "type": "range",
+                    "colors": [
+                        "hsla(89, 48%, 40%, 1)",
+                        "hsla(46, 81%,  52%, 1)",
+                        "hsla(358, 71%, 62%, 1)"
+                    ],
+                    "min_type": null,
+                    "max_type": null,
+                    "min_value": 0,
+                    "max_value": 100
+                }
+            ],
+            "table.pivot_column": "dia_semana",
+            "table.cell_column": "count"
+        },
+        "collection": {
+            "authority_level": null,
+            "description": null,
+            "archived": false,
+            "slug": "cubos",
+            "archive_operation_id": null,
+            "name": "Cubos",
+            "is_remote_synced": false,
+            "personal_owner_id": null,
+            "type": null,
+            "is_sample": false,
+            "id": 5,
+            "archived_directly": null,
+            "entity_id": "G_Y_5vyHjNW902f_82W0i",
+            "location": "/",
+            "namespace": null,
+            "created_at": "2026-01-08T21:54:17.3428Z"
+        },
+        "metabase_version": "v0.58.1 (7fbf305)",
+        "parameters": [],
+        "dashboard_id": 4,
+        "created_at": "2026-01-09T02:16:57.286147Z",
+        "public_uuid": null
+    },
+    {
         "cache_invalidated_at": null,
         "description": null,
         "archived": false,
-        "view_count": 14,
+        "view_count": 15,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 14,
@@ -4796,7 +5951,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -4813,7 +5968,7 @@
         "query_type": "query",
         "name": "HeatMap OS por dia y hora",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:43:01.522986Z",
+        "last_used_at": "2026-01-08T22:54:47.152645Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:07:15.815695Z",
@@ -4924,7 +6079,7 @@
         "cache_invalidated_at": "2026-01-08T22:23:25.196469Z",
         "description": null,
         "archived": false,
-        "view_count": 7,
+        "view_count": 10,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 30,
@@ -5058,7 +6213,7 @@
         "creator": {
             "email": "agustintorres1701@gmail.com",
             "first_name": "Agustin",
-            "last_login": "2026-01-08T22:44:08.755811Z",
+            "last_login": "2026-01-09T02:26:47.501556Z",
             "is_qbnewb": false,
             "is_superuser": true,
             "id": 1,
@@ -5075,7 +6230,7 @@
         "query_type": "query",
         "name": "HeatMap OS Triage por dia y hora",
         "document_id": null,
-        "last_used_at": "2026-01-08T22:31:18.636212Z",
+        "last_used_at": "2026-01-09T02:17:43.663548Z",
         "type": "question",
         "creator_id": 1,
         "updated_at": "2026-01-08T22:23:25.199898Z",
@@ -5268,13 +6423,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "ca225dd5-53a8-4722-8093-e2161c503293"
+                                "lib/uuid": "d49ca72b-18aa-4fd8-a00b-b1558fdfb289"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "49f29c98-dffd-485d-9606-bc680ad99f9b",
+                                    "lib/uuid": "ee8ee9c8-b002-459a-8f7b-c035455f8195",
                                     "effective-type": "type/Integer"
                                 },
                                 2
@@ -5287,7 +6442,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "month",
-                                "lib/uuid": "6a9435c3-6265-48f2-b60b-0d494112fe18",
+                                "lib/uuid": "ed4aaa9b-a04d-4d55-8fee-ab4c436ba24d",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -5298,13 +6453,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "ba8fa5e1-d760-4465-9322-99369e2c2855"
+                                "lib/uuid": "88305996-832e-4237-9a7c-5fec290b1651"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "f8ea0775-91d9-4510-acaf-ee85d877d580",
+                                    "lib/uuid": "a7f9fc3c-1b36-4806-92e4-a824c598defd",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -5315,13 +6470,13 @@
                         [
                             "=",
                             {
-                                "lib/uuid": "39989f7e-fb79-47db-852e-27c4107e7bf1"
+                                "lib/uuid": "c40da3fc-6513-4172-9f0f-f84fd2ca8b6f"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "270d6951-841d-4422-bd6c-56dc7bd8348e",
+                                    "lib/uuid": "d075cfe8-5643-46fa-bba7-caf7231e4162",
                                     "effective-type": "type/Integer"
                                 },
                                 14
@@ -5614,13 +6769,13 @@
                         [
                             "desc",
                             {
-                                "lib/uuid": "b7c02462-6ee1-4cf8-8a81-8cc4c8dd7cc7"
+                                "lib/uuid": "666b829c-e153-4497-8452-a0669b55a13b"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "70fbca67-4673-4315-9f34-422630a424ef",
+                                    "lib/uuid": "74755ede-41a7-4298-a9a0-bc0edffa6145",
                                     "effective-type": "type/DateTime"
                                 },
                                 31
@@ -5632,7 +6787,7 @@
                             "field",
                             {
                                 "base-type": "type/BigInteger",
-                                "lib/uuid": "8dac2a5c-501d-438a-a484-3d2c23ac28b5",
+                                "lib/uuid": "7ce49a27-4935-4d88-a93d-10a28a46007a",
                                 "effective-type": "type/BigInteger"
                             },
                             24
@@ -5641,7 +6796,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "3cb974ab-5ea8-4df3-8f50-9df29978bd94",
+                                "lib/uuid": "17807102-880c-4a1b-a862-17741bab4e22",
                                 "effective-type": "type/Text"
                             },
                             37
@@ -5650,7 +6805,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "c8c71971-88e8-4138-bacc-ec892553082f",
+                                "lib/uuid": "196d733f-6c06-4111-a245-eb77e613b20e",
                                 "effective-type": "type/Text"
                             },
                             36
@@ -5659,7 +6814,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "69d8c262-4440-4dba-b57d-d8bc8ee34306",
+                                "lib/uuid": "98f84973-ae53-4cf8-8662-f0c3d6bce9d5",
                                 "effective-type": "type/Text"
                             },
                             43
@@ -5668,7 +6823,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "0f524333-d7ce-404a-a9aa-44123837b399",
+                                "lib/uuid": "9aa94318-9736-49be-a8f9-adc0041fe93b",
                                 "effective-type": "type/Text"
                             },
                             41
@@ -5677,7 +6832,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "6bb420d8-6590-43f7-81ca-5edaaa9d4e01",
+                                "lib/uuid": "0658a954-313b-4ee5-b83e-00ab7b286d2d",
                                 "effective-type": "type/DateTime"
                             },
                             31
@@ -5686,7 +6841,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "bc153393-455d-4c53-93ae-5992837ad83b",
+                                "lib/uuid": "671f9a61-cf0a-4709-a630-e32ce801d337",
                                 "effective-type": "type/DateTime"
                             },
                             40
@@ -5695,7 +6850,7 @@
                             "field",
                             {
                                 "base-type": "type/DateTime",
-                                "lib/uuid": "607a6896-f650-4237-a32f-92b3e0f313b7",
+                                "lib/uuid": "d7b11a7d-bd81-48f3-ba40-ad31e8400661",
                                 "effective-type": "type/DateTime"
                             },
                             39
@@ -5704,7 +6859,7 @@
                             "field",
                             {
                                 "base-type": "type/Boolean",
-                                "lib/uuid": "d4515176-ea23-4cf0-9abb-5fe13649caa5",
+                                "lib/uuid": "a082c276-7cf4-420b-996c-98417d1e93fc",
                                 "effective-type": "type/Boolean"
                             },
                             38
@@ -5713,7 +6868,7 @@
                             "field",
                             {
                                 "base-type": "type/Boolean",
-                                "lib/uuid": "1b28d1af-1dd5-4d49-aa50-dc7525c8d054",
+                                "lib/uuid": "b00becb6-1b22-422c-93a7-b460eb5977e7",
                                 "effective-type": "type/Boolean"
                             },
                             42
@@ -5724,13 +6879,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "da2fae04-a5ee-42dc-bd35-54021eec703b"
+                                "lib/uuid": "7099eb7f-5a37-425a-a2e6-68babf7aee02"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "38a780f7-7d50-4399-a783-78628da0f97d",
+                                    "lib/uuid": "03912ab0-6c92-428c-8114-c2bdd4f7da2d",
                                     "effective-type": "type/DateTime"
                                 },
                                 31
@@ -5886,7 +7041,7 @@
         "query_type": "query",
         "name": "Number of Orders",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "metric",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -5903,7 +7058,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "d4a4a38e-d35d-4a46-bccb-9a6bf79f480f"
+                                "lib/uuid": "dd58b1af-392d-4205-b694-a7a7bd918b14"
                             }
                         ]
                     ],
@@ -5913,7 +7068,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "month",
-                                "lib/uuid": "c228fdc0-6693-4ab8-88bf-e73f4250f040",
+                                "lib/uuid": "6b320cfd-b1b9-4449-9563-b2c319663611",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -5925,13 +7080,13 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "bde8ecf2-630b-499d-b3eb-f6338c595800"
+                                "lib/uuid": "dc51b695-1d9d-40a1-a4c3-2fb5b654f98b"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "0a4ac15d-1035-4598-a069-41f3c52ae0bf",
+                                    "lib/uuid": "32d43cb4-b406-4d05-92c5-761e95acb5e6",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -6088,7 +7243,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "6b7ed2b2-0683-44b3-9c2f-90053134dbd4",
+                                "lib/uuid": "8c8e74dd-49b7-4d31-9bc9-b36484a4b6fd",
                                 "effective-type": "type/Text"
                             },
                             29
@@ -6098,7 +7253,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "month",
-                                "lib/uuid": "eb6ffdc4-ebb9-4d40-8d27-89079332e688",
+                                "lib/uuid": "027dd9cb-7af6-4607-816f-9a5f13fc5ed9",
                                 "effective-type": "type/DateTime"
                             },
                             35
@@ -6108,7 +7263,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "99b414ae-78a2-4c94-bf41-2160d83c91b8"
+                                "lib/uuid": "afeb7947-b0c4-4e7d-9f7e-7368bedc4d75"
                             }
                         ]
                     ],
@@ -6120,13 +7275,13 @@
                         [
                             "=",
                             {
-                                "lib/uuid": "750c7d0d-5602-4ec6-9e73-79e36eead1fc"
+                                "lib/uuid": "0e0accac-7bc5-46f2-a060-021693974d7b"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "cb471c85-49d4-4f9f-ae1b-b019ed5f1ca5"
+                                    "lib/uuid": "fbfd466b-edd6-4671-9433-e156e3d9e69d"
                                 },
                                 "BUTTON_LABEL"
                             ],
@@ -6474,7 +7629,7 @@
                                     {
                                         "base-type": "type/Text",
                                         "join-alias": "People - User",
-                                        "lib/uuid": "de99ae78-864b-469c-ab21-dbad227f2afb",
+                                        "lib/uuid": "4fb3d7aa-8809-4e34-bccc-b16a17a2e6d1",
                                         "effective-type": "type/Text"
                                     },
                                     7
@@ -6484,7 +7639,7 @@
                                     {
                                         "base-type": "type/Text",
                                         "join-alias": "People - User",
-                                        "lib/uuid": "c6a9471a-ae97-405f-a654-525d6159142c",
+                                        "lib/uuid": "3a91ff2f-f9e7-4285-a292-6ac88204b2a1",
                                         "effective-type": "type/Text"
                                     },
                                     1
@@ -6495,13 +7650,13 @@
                                 [
                                     "=",
                                     {
-                                        "lib/uuid": "16a4a05c-57ad-47a5-a942-2c281f4149d9"
+                                        "lib/uuid": "e678f194-7426-46ad-a230-83d9f3c04335"
                                     },
                                     [
                                         "field",
                                         {
                                             "base-type": "type/Integer",
-                                            "lib/uuid": "6bb8cfcc-1e3b-47c9-922e-c59b954a83d4",
+                                            "lib/uuid": "c222dcea-4424-4032-9650-1420366beb92",
                                             "effective-type": "type/Integer"
                                         },
                                         11
@@ -6511,7 +7666,7 @@
                                         {
                                             "base-type": "type/BigInteger",
                                             "join-alias": "People - User",
-                                            "lib/uuid": "02293d60-8bc7-469a-ac69-99c869cc02e6",
+                                            "lib/uuid": "fbf62223-e36a-4bc9-a7dd-2555e6159b29",
                                             "effective-type": "type/BigInteger"
                                         },
                                         4
@@ -6526,7 +7681,7 @@
                                 }
                             ],
                             "lib/options": {
-                                "lib/uuid": "53059c18-03e5-4eb8-b052-bdb7298713c7"
+                                "lib/uuid": "e1051b1a-9c4b-493b-89d9-0ea5f33bee24"
                             }
                         }
                     ],
@@ -6534,7 +7689,7 @@
                         [
                             "datetime-diff",
                             {
-                                "lib/uuid": "493ef978-5d26-4e48-aa4b-88972cd311b0",
+                                "lib/uuid": "97e19ce4-1281-46fb-a9d2-601241f5b984",
                                 "lib/expression-name": "Age"
                             },
                             [
@@ -6542,7 +7697,7 @@
                                 {
                                     "base-type": "type/Date",
                                     "join-alias": "People - User",
-                                    "lib/uuid": "c8e632a5-db85-4f91-abf9-5618bc263b22",
+                                    "lib/uuid": "fd849b02-d310-4381-9eae-64494b5e3178",
                                     "effective-type": "type/Date"
                                 },
                                 12
@@ -6550,7 +7705,7 @@
                             [
                                 "now",
                                 {
-                                    "lib/uuid": "170f1c18-56c1-4bb9-8bb3-36085ce011c6"
+                                    "lib/uuid": "29dbd86b-e32f-4f14-84b8-d8938da9f0fe"
                                 }
                             ],
                             "year"
@@ -6651,7 +7806,7 @@
         "cache_invalidated_at": null,
         "description": "Orders placed per quarter broken down by source and formatted to highlight best and worst quarters",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -6787,7 +7942,7 @@
         "query_type": "query",
         "name": "Orders according to sources per quarter",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:08.311784Z",
+        "last_used_at": "2026-01-09T02:16:00.569171Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -6803,7 +7958,7 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "c2a247f7-714e-4113-9dc1-85d99df1c5ea"
+                                "lib/uuid": "e9609a60-99cd-464c-967d-6d06627bcadf"
                             },
                             9
                         ]
@@ -6814,7 +7969,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 11,
-                                "lib/uuid": "714cfa3a-1fd6-4aca-a388-d888473d6451",
+                                "lib/uuid": "a37e3354-edcb-4934-bb98-c7fdb0d558e4",
                                 "effective-type": "type/Text"
                             },
                             30
@@ -6824,7 +7979,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "206bb7ef-579f-4cf6-ba02-c7ddaf16a51e",
+                                "lib/uuid": "87691454-45ab-4115-971a-8e44f867a02a",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -6836,13 +7991,13 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "c6244a34-df2b-4d4a-b705-1616bf1db932"
+                                "lib/uuid": "71dd84cf-6f42-4d0b-8963-7cf0bdf76703"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "bf63cdb9-7d6c-462a-b27f-382f4bd588d4",
+                                    "lib/uuid": "5d49945e-291e-48c3-b925-7889d8ff54a7",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -6944,7 +8099,7 @@
         "cache_invalidated_at": null,
         "description": "Compares the orders of each category quarter over quarter",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -7095,7 +8250,7 @@
         "query_type": "query",
         "name": "Orders by product category",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -7111,7 +8266,7 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "96788b83-8f24-4d2d-a454-71d7de5dbfe3"
+                                "lib/uuid": "9eec69a3-5fbe-47ea-86f0-aaa470f24050"
                             },
                             19
                         ]
@@ -7122,7 +8277,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "7ad1f5e8-5862-4284-9c32-141fe7c96ab0",
+                                "lib/uuid": "87600edd-ff1b-4b94-83ee-623dc6a3e68a",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -7133,7 +8288,7 @@
                                 "temporal-unit": "quarter",
                                 "base-type": "type/DateTime",
                                 "original-temporal-unit": "month",
-                                "lib/uuid": "584ffb7b-d475-47c0-9b13-fdd296ac22dd",
+                                "lib/uuid": "64ec7080-8576-4f54-8503-2f3bea9a568a",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -7145,13 +8300,13 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "0a7ba1b4-2a90-41d1-b5b6-0a07c592473c"
+                                "lib/uuid": "633bf178-4fe2-4f9e-aacc-ef7de4bc1688"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "572d8574-8f21-455d-981c-236afce8e5f3",
+                                    "lib/uuid": "396dec48-3fe1-45cd-a738-1bc2f66d071d",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -7333,13 +8488,13 @@
                                 [
                                     "=",
                                     {
-                                        "lib/uuid": "1e269edd-5ac0-4918-a1e0-ceacb0a526c0"
+                                        "lib/uuid": "5405783a-21a0-42f0-a405-51b66bad6a24"
                                     },
                                     [
                                         "field",
                                         {
                                             "base-type": "type/Integer",
-                                            "lib/uuid": "2b9bfbf7-e906-485c-9dc2-b53a204319ed"
+                                            "lib/uuid": "ab389724-a6fa-4a58-b7c3-d94453892577"
                                         },
                                         "PRODUCT_ID"
                                     ],
@@ -7348,7 +8503,7 @@
                                         {
                                             "base-type": "type/BigInteger",
                                             "join-alias": "Products",
-                                            "lib/uuid": "f9bf02d4-f7b2-4a0e-b357-2ef1e7f6b9c7",
+                                            "lib/uuid": "66e1a19d-99ec-4689-893c-7c87a73e161b",
                                             "effective-type": "type/BigInteger"
                                         },
                                         8
@@ -7363,7 +8518,7 @@
                                 }
                             ],
                             "lib/options": {
-                                "lib/uuid": "27304886-bfb0-4b74-8db0-d305118c673f"
+                                "lib/uuid": "1b808f35-d110-4903-8674-23a7d9bb2a4e"
                             }
                         }
                     ],
@@ -7371,7 +8526,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "38ee7e0e-8908-4ea3-b4c0-62ce31c21453"
+                                "lib/uuid": "a427a3a7-09e3-4467-95a8-56fbc832df24"
                             }
                         ]
                     ],
@@ -7384,7 +8539,7 @@
                                     "strategy": "num-bins",
                                     "num-bins": 10
                                 },
-                                "lib/uuid": "a8a01202-9418-4aa7-b80c-b9f32613fbbb"
+                                "lib/uuid": "a29bc1b8-0d12-414d-bc9a-abf4cfa77555"
                             },
                             "Age"
                         ],
@@ -7393,7 +8548,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 11,
-                                "lib/uuid": "ea0dd040-3d26-4233-beca-da5128cdaf74",
+                                "lib/uuid": "6908f415-f147-4284-a094-40ec06b2476d",
                                 "effective-type": "type/Text"
                             },
                             30
@@ -7403,13 +8558,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "c7901298-d6a0-40b4-952a-14546aaedb32"
+                                "lib/uuid": "77a6c0ad-10dc-447d-bf0f-f0b2ca06fbfd"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/BigInteger",
-                                    "lib/uuid": "81567820-f7b2-47a3-8e09-9935a3707135"
+                                    "lib/uuid": "4fd7cdc8-9eb7-4933-b8be-e2bfb6200948"
                                 },
                                 "Age"
                             ],
@@ -7565,13 +8720,13 @@
                                 [
                                     "=",
                                     {
-                                        "lib/uuid": "8577eb29-96f4-4d9f-b99d-1f5d2bc9278e"
+                                        "lib/uuid": "5c4232c0-5720-4137-ba4c-612101ce45e0"
                                     },
                                     [
                                         "field",
                                         {
                                             "base-type": "type/Integer",
-                                            "lib/uuid": "8e8311d4-f6ae-4b2c-bba5-a0dac61d2597"
+                                            "lib/uuid": "12a7f2cb-2a5b-471a-9b90-080ddb9afc27"
                                         },
                                         "PRODUCT_ID"
                                     ],
@@ -7580,7 +8735,7 @@
                                         {
                                             "base-type": "type/BigInteger",
                                             "join-alias": "Products",
-                                            "lib/uuid": "38414277-ba3f-41cf-b06c-21e5484c63f3",
+                                            "lib/uuid": "2ae0ad52-4ea9-42e4-a358-28899efa4d08",
                                             "effective-type": "type/BigInteger"
                                         },
                                         8
@@ -7595,7 +8750,7 @@
                                 }
                             ],
                             "lib/options": {
-                                "lib/uuid": "17616372-4c4a-4828-a1e1-dbee79be53f2"
+                                "lib/uuid": "fe3963c7-e1c2-46c3-8851-034602fd83eb"
                             }
                         }
                     ],
@@ -7603,7 +8758,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "b46a95d3-7af4-4cab-bfc8-dd5fc71087f5"
+                                "lib/uuid": "35fbb825-d1e7-4aa1-b0b4-396a7dfaf984"
                             }
                         ]
                     ],
@@ -7612,7 +8767,7 @@
                             "field",
                             {
                                 "base-type": "type/BigInteger",
-                                "lib/uuid": "840e1cae-d8e9-4e51-8ea0-1cbcbdad7a2f"
+                                "lib/uuid": "8d1bec85-f615-4e3d-b850-f510172bcd8f"
                             },
                             "Age"
                         ],
@@ -7621,7 +8776,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 11,
-                                "lib/uuid": "c0e31d79-e148-4e35-b006-df1aa5cc2a4c",
+                                "lib/uuid": "f5abf90b-d967-4faf-8941-746259d11d08",
                                 "effective-type": "type/Text"
                             },
                             30
@@ -7951,14 +9106,14 @@
                         [
                             "datetime-diff",
                             {
-                                "lib/uuid": "17427b09-293e-4a37-9e31-3f9da822dc17",
+                                "lib/uuid": "5527ed7c-1c29-4d84-963f-8c36bfdc7621",
                                 "lib/expression-name": "Age"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Date",
-                                    "lib/uuid": "db5f192e-2696-46a0-aa84-b91523e4e10a",
+                                    "lib/uuid": "0a21003f-b2b7-4377-8de2-bcf6f63428d8",
                                     "effective-type": "type/Date"
                                 },
                                 12
@@ -7966,7 +9121,7 @@
                             [
                                 "now",
                                 {
-                                    "lib/uuid": "f4a1447d-461b-4184-b644-4c4654e80a5e"
+                                    "lib/uuid": "170c12c0-0194-4fa4-98e9-de6cf725c6a4"
                                 }
                             ],
                             "year"
@@ -8122,7 +9277,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "354688cf-58c4-41c2-9593-bdcbe8668671",
+                                "lib/uuid": "9c23bf2b-8f4c-4d53-a7af-25b99a5e3355",
                                 "effective-type": "type/Text"
                             },
                             17
@@ -8132,7 +9287,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "be95ca08-1c6d-44c4-91ad-866cf9c7a44e",
+                                "lib/uuid": "0f57bb78-9420-407c-8d5a-b230268a2949",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -8142,7 +9297,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "805e53d5-8992-4a53-a701-b6464f0eb9ba"
+                                "lib/uuid": "a3f82a55-c985-42fc-80bc-dd53ac711c59"
                             }
                         ]
                     ],
@@ -8154,13 +9309,13 @@
                         [
                             ">=",
                             {
-                                "lib/uuid": "02d6e117-0848-4ae2-a959-c89a5bac07f5"
+                                "lib/uuid": "4c2409d6-8514-4ed8-95a2-fd08379be5a1"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "f929ac8a-1940-4c7a-87a0-9d2c8077805b"
+                                    "lib/uuid": "bc4c2ef2-36fc-4892-8773-0e0b8ae55e09"
                                 },
                                 "count"
                             ],
@@ -8372,13 +9527,13 @@
                                 [
                                     "=",
                                     {
-                                        "lib/uuid": "62876b4d-d59b-4d2a-83f6-b816ce655f08"
+                                        "lib/uuid": "3021d318-ddcd-4d75-bcb3-e0fe710b17d5"
                                     },
                                     [
                                         "field",
                                         {
                                             "base-type": "type/Integer",
-                                            "lib/uuid": "0683933e-9088-4595-8281-ceb4aad55864"
+                                            "lib/uuid": "941f0afa-53aa-4752-9ecf-cd463d6d87af"
                                         },
                                         "PRODUCT_ID"
                                     ],
@@ -8387,7 +9542,7 @@
                                         {
                                             "base-type": "type/BigInteger",
                                             "join-alias": "Products",
-                                            "lib/uuid": "9bc71906-838a-41bf-9919-dace1c2e2d5f",
+                                            "lib/uuid": "8102e9f3-f8da-4033-bb2e-5639e0789fc6",
                                             "effective-type": "type/BigInteger"
                                         },
                                         8
@@ -8402,7 +9557,7 @@
                                 }
                             ],
                             "lib/options": {
-                                "lib/uuid": "f936cad8-d572-43b4-ab98-c5b2becb5046"
+                                "lib/uuid": "a04453b3-bbc6-44aa-b035-f6b3cb1b8ae4"
                             }
                         }
                     ],
@@ -8410,7 +9565,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "bfd2f36b-0294-4076-8d0e-f07fa6b5000a"
+                                "lib/uuid": "0d5d5672-7170-4eb1-9326-c9acdec33fab"
                             }
                         ]
                     ],
@@ -8419,7 +9574,7 @@
                             "field",
                             {
                                 "base-type": "type/BigInteger",
-                                "lib/uuid": "caddbc0b-b86e-4d4f-a5d2-90dd4d096e2d"
+                                "lib/uuid": "c5b6c2f3-addf-499f-8f46-9fefaa2c364f"
                             },
                             "Age"
                         ],
@@ -8428,7 +9583,7 @@
                             {
                                 "base-type": "type/Text",
                                 "join-alias": "Products",
-                                "lib/uuid": "1e0425c8-6a2b-4aff-8b0a-03e47c6e6bdc",
+                                "lib/uuid": "ab33840c-b6cf-4c10-bac2-15754fbfd13b",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -8603,13 +9758,13 @@
                                 [
                                     "=",
                                     {
-                                        "lib/uuid": "624ad99d-976d-41dd-a740-113ba8674c52"
+                                        "lib/uuid": "a1f5e242-90c9-4391-959e-a6e8aa5b1442"
                                     },
                                     [
                                         "field",
                                         {
                                             "base-type": "type/Integer",
-                                            "lib/uuid": "0214c6c9-af21-4855-8761-4a9e555a1773"
+                                            "lib/uuid": "290d97b7-8f37-4e21-88b3-292aebb0c50d"
                                         },
                                         "PRODUCT_ID"
                                     ],
@@ -8618,7 +9773,7 @@
                                         {
                                             "base-type": "type/BigInteger",
                                             "join-alias": "Products",
-                                            "lib/uuid": "e4be4c42-1198-4e10-a2d7-f2a60ecf8e18",
+                                            "lib/uuid": "97e05cb8-fdb7-43c5-86ca-1d99f4f9b066",
                                             "effective-type": "type/BigInteger"
                                         },
                                         8
@@ -8633,7 +9788,7 @@
                                 }
                             ],
                             "lib/options": {
-                                "lib/uuid": "b15c03aa-693c-4764-ba76-332947cf95f2"
+                                "lib/uuid": "88da669e-18e1-412e-99ce-97191b11fae1"
                             }
                         }
                     ],
@@ -8641,7 +9796,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "d97ba786-9732-47ec-8391-d091e18184ac"
+                                "lib/uuid": "d126a6c8-9d30-47cb-8b3e-5f55489fed13"
                             }
                         ]
                     ],
@@ -8654,7 +9809,7 @@
                                     "strategy": "num-bins",
                                     "num-bins": 10
                                 },
-                                "lib/uuid": "b67206b5-a9bc-4ab1-a350-496e82945549"
+                                "lib/uuid": "59e9bbb5-4bd2-4583-bbac-cbf6fda91862"
                             },
                             "Age"
                         ],
@@ -8663,7 +9818,7 @@
                             {
                                 "base-type": "type/Text",
                                 "join-alias": "Products",
-                                "lib/uuid": "373acb75-fe53-47cb-9c5e-4a916f37aa13",
+                                "lib/uuid": "788480e4-18b7-4846-a947-0d8a234f2c62",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -8673,13 +9828,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "1c3efd75-9831-4e79-9331-ac6f221d960d"
+                                "lib/uuid": "02d4c7ca-f46d-4cef-b72c-d0b2e14e5a71"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/BigInteger",
-                                    "lib/uuid": "52fdac64-c09c-4216-8e54-6fbc6c6663ce"
+                                    "lib/uuid": "cfdda683-28fd-4ab5-8a0b-cf621b7e59e6"
                                 },
                                 "Age"
                             ],
@@ -8822,13 +9977,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "00634602-54d5-4d4b-a306-2a47d3a2a349"
+                                "lib/uuid": "2e5acb0d-9359-4511-9ece-7dae8133e696"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "e0a5b07e-38bb-465b-ae02-706b14851d0e",
+                                    "lib/uuid": "9f47e864-3036-4064-9d16-c8bd8decfc8b",
                                     "effective-type": "type/Integer"
                                 },
                                 2
@@ -8841,7 +9996,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "eaebf481-e218-48b5-b92d-820f5969dd4a",
+                                "lib/uuid": "e32af382-49c0-4ebd-998c-a5f1db5051ba",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -8853,13 +10008,13 @@
                             "time-interval",
                             {
                                 "include-current": false,
-                                "lib/uuid": "8f6be427-5bf3-4241-8015-a2dae881e9a7"
+                                "lib/uuid": "df50b3bf-4847-463d-a343-c0d936112b8b"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "f57d345c-c297-4e48-b259-acd7c9ef08db",
+                                    "lib/uuid": "51101fd9-86a2-4cac-a81b-dd1571c7d33f",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -8985,7 +10140,7 @@
         "query_type": "query",
         "name": "Revenue",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:08.311784Z",
+        "last_used_at": "2026-01-09T02:16:00.569171Z",
         "type": "metric",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -9002,13 +10157,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "ac3c13c8-d636-4f98-9806-0afcf158ca6d"
+                                "lib/uuid": "ce1ab662-5a0b-4c10-ab95-34c49453c0e0"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "6c8d79e6-0c0c-4025-9f17-dff3858d7879",
+                                    "lib/uuid": "d426e3f5-db89-4101-9288-1ce82d95013a",
                                     "effective-type": "type/Float"
                                 },
                                 5
@@ -9021,7 +10176,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "ec522cb0-2fd7-4d90-ae3f-2569d284c504",
+                                "lib/uuid": "eed381f5-a6f1-42fb-ba83-551c910c9b27",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -9033,13 +10188,13 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "61200d90-f399-48b8-8652-fd5cbbb63cb8"
+                                "lib/uuid": "b32854a0-8fac-4188-9868-f02209469f39"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "b6ff2e7b-5413-4933-a2e9-645b41258df2",
+                                    "lib/uuid": "b69ebf2c-d5a1-442b-93f9-0acf1a914ad3",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -9096,7 +10251,7 @@
         "cache_invalidated_at": null,
         "description": "Cumulative revenue overlaid with number of orders placed each month",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -9349,7 +10504,7 @@
         "query_type": "query",
         "name": "Revenue and orders over time",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -9365,20 +10520,20 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "973a7c22-e342-4485-8592-8821f7de68a2"
+                                "lib/uuid": "6f1ce8b7-0932-4d1f-a8a7-fcc321da7060"
                             },
                             9
                         ],
                         [
                             "sum",
                             {
-                                "lib/uuid": "a5907415-82f3-45eb-9153-02781972ded2"
+                                "lib/uuid": "46158286-13b9-436f-887d-ea8cdf34786d"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "58113bd8-54e9-478e-806b-4d5a3946f06c",
+                                    "lib/uuid": "8726c94b-3eed-46c6-aa9e-2ea9b2681b0b",
                                     "effective-type": "type/Integer"
                                 },
                                 2
@@ -9387,13 +10542,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "d151e193-e444-4c80-a2bf-6e8e4f8b3348"
+                                "lib/uuid": "3ba7ea6b-6166-41dc-a819-b30d5ca48fdc"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "55a910b6-ad0d-46fd-a2ae-a5fba5b719f7",
+                                    "lib/uuid": "e38da666-35e6-4e2a-bd35-239bae276f79",
                                     "effective-type": "type/Float"
                                 },
                                 3
@@ -9402,7 +10557,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "5a0e931f-8506-4dc4-a53f-27db8868cfeb"
+                                "lib/uuid": "980d4508-4187-4fe6-a9d5-b7c8d7fdb645"
                             }
                         ]
                     ],
@@ -9412,7 +10567,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "6b821c38-1ac6-4455-8609-f7f47af83e4f",
+                                "lib/uuid": "1ca5a174-5992-47ab-bced-b61a3e7887f5",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -9422,7 +10577,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "23b7002a-6bcf-4014-8ad9-dc97873b851d",
+                                "lib/uuid": "46edbfcc-8a5d-46a4-bde6-bce05d302e7e",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -9434,13 +10589,13 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "adec57c0-6d00-44f6-ac7c-c2e5a2585e4e"
+                                "lib/uuid": "87c11a16-3b14-48d3-ab44-62afe3917172"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "dc83f323-206f-4090-a5dd-5143be98fc06",
+                                    "lib/uuid": "51485f21-7fb4-4f72-b029-6b9f554cffe8",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -9526,7 +10681,7 @@
         "cache_invalidated_at": null,
         "description": "Monthly revenue broken down by products",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -9779,7 +10934,7 @@
         "query_type": "query",
         "name": "Revenue by product category",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -9795,20 +10950,20 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "04774b90-02ec-4198-9d40-4734efefee39"
+                                "lib/uuid": "c86aefd4-7764-4f20-b715-99cd2c1bef02"
                             },
                             9
                         ],
                         [
                             "avg",
                             {
-                                "lib/uuid": "a876c2f1-11d3-4f82-bf1a-781721d9e04d"
+                                "lib/uuid": "9eb34905-19af-4357-bc99-bf3059421869"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "964aa435-4eea-4824-a879-285214992cea",
+                                    "lib/uuid": "40705a76-c4d1-406f-964d-bf3aee5c295c",
                                     "effective-type": "type/Float"
                                 },
                                 5
@@ -9817,13 +10972,13 @@
                         [
                             "max",
                             {
-                                "lib/uuid": "8cb5007f-fc1d-4aae-92ba-a9cce7706b52"
+                                "lib/uuid": "066d367b-9292-4a06-a149-2a7e125f2489"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "07105d7d-6b4a-4673-aeb2-1d23cff5a978",
+                                    "lib/uuid": "0a3c78d8-7ef3-4c9a-951d-e3c596be3fed",
                                     "effective-type": "type/Float"
                                 },
                                 5
@@ -9832,13 +10987,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "3a9280ef-83a0-4c36-a9ec-9476242fcba5"
+                                "lib/uuid": "adc59900-234f-4a24-a2c4-f40b8fd38e6c"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "e77c5e51-acd2-40d9-96c7-2525b6859181",
+                                    "lib/uuid": "e8953a84-a35b-4d5b-bba7-f4c98cbdf623",
                                     "effective-type": "type/Float"
                                 },
                                 3
@@ -9852,7 +11007,7 @@
                                 "temporal-unit": "month",
                                 "base-type": "type/DateTime",
                                 "original-temporal-unit": "quarter",
-                                "lib/uuid": "f98b6e33-98e1-4e63-ba91-ca89ac9d6331",
+                                "lib/uuid": "f0de3b38-ed5b-45f4-a805-5cc8047003e0",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -9862,7 +11017,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "cc98637c-43fa-4915-a368-015991e70fbd",
+                                "lib/uuid": "f3f54318-921d-4c66-9227-7b77587a7c10",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -9873,13 +11028,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "e132859e-44c8-4af0-bd48-bfb6060c12c0"
+                                "lib/uuid": "f35364be-5740-4d9a-8a37-d1aee5ac780d"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "854555f6-9d7b-44b2-a7a2-068c7543a35a",
+                                    "lib/uuid": "307d2ac3-81f5-4ef3-b90e-93c4df5fa71b",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -10041,7 +11196,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "39c65c6c-1955-4b2c-ad9b-471c754e60ae"
+                                "lib/uuid": "f6f0ed1a-a3b8-4955-a2ee-54a1708ec01b"
                             },
                             "STATE"
                         ]
@@ -10050,13 +11205,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "9e1d2ac7-8856-4e25-a9d3-0931785d6d5e"
+                                "lib/uuid": "ba1abd43-b688-461b-a5e2-e11aa00087da"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "d8f40170-4912-4fea-9ea0-c269fcb7661a"
+                                    "lib/uuid": "f5949e0b-2fda-426a-b9e9-e432e05f54f6"
                                 },
                                 "TOTAL"
                             ]
@@ -10114,7 +11269,7 @@
         "cache_invalidated_at": null,
         "description": "Compares total revenue this quarter to our goal",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -10176,7 +11331,7 @@
         "query_type": "query",
         "name": "Revenue goal for this quarter",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -10192,7 +11347,7 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "8e3a1893-3605-4748-820c-39654d6ebee8"
+                                "lib/uuid": "1e13ca99-6362-4c91-b5e4-64d220f0ed3a"
                             },
                             9
                         ]
@@ -10202,13 +11357,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "40fb1104-1ef9-4146-858d-0fee9f9c6c23"
+                                "lib/uuid": "277c3546-6334-4f5e-be87-017fc541b11a"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "44531b17-e21b-41a3-8d3b-96732d260f23",
+                                    "lib/uuid": "434b1ba3-6771-4f9a-8d81-d430ed83df8d",
                                     "effective-type": "type/DateTime"
                                 },
                                 13
@@ -10338,13 +11493,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "f2089b31-352f-4277-bafb-e340ecd2c0be"
+                                "lib/uuid": "5225f288-3099-41ca-bc1c-d26e2d2e30b2"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "c95bace7-fc30-4570-a6ba-81ea99980d5b"
+                                    "lib/uuid": "d621a941-1ac0-4e35-8502-ab0b81ed27b5"
                                 },
                                 "TOTAL"
                             ]
@@ -10359,7 +11514,7 @@
                                     "strategy": "num-bins",
                                     "num-bins": 10
                                 },
-                                "lib/uuid": "cc33e994-f224-4d5f-8e0e-76d3afa8ea92"
+                                "lib/uuid": "c65da838-5b03-46d1-b913-d8416fe99316"
                             },
                             "Age"
                         ]
@@ -10368,13 +11523,13 @@
                         [
                             "between",
                             {
-                                "lib/uuid": "c9bfdad5-35f9-4e52-8401-c9a42194f950"
+                                "lib/uuid": "eb2e35a3-4bb4-4b22-b01b-c56e843a8041"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/BigInteger",
-                                    "lib/uuid": "a7f5bf25-2fb5-4f1a-be56-4ecff0bd2b09"
+                                    "lib/uuid": "8c2a1e70-4cb7-439a-a5f4-f82c317954ca"
                                 },
                                 "Age"
                             ],
@@ -10506,7 +11661,7 @@
                             "field",
                             {
                                 "base-type": "type/BigInteger",
-                                "lib/uuid": "af53b6e1-c5c2-428a-a8c1-309cba27f706"
+                                "lib/uuid": "3f416881-6f50-4bdf-bd89-b26e8dcad6bf"
                             },
                             "Age"
                         ]
@@ -10515,13 +11670,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "5bde7bf2-a410-4fc9-8e7f-dd57477d7d4b"
+                                "lib/uuid": "d071202c-4b6d-4b4b-96c0-567097ef1383"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "02cb4555-e85c-4752-abe7-db0ab04ab719"
+                                    "lib/uuid": "0f01511f-35f4-4e3c-8851-5e0e1de7b90b"
                                 },
                                 "TOTAL"
                             ]
@@ -10577,7 +11732,7 @@
         "cache_invalidated_at": null,
         "description": "Total revenue last quarter compared to the previous",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -10683,7 +11838,7 @@
         "query_type": "query",
         "name": "Revenue per quarter",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -10701,7 +11856,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "23bcb21f-9d57-46d4-a3b0-f738a616a974",
+                                "lib/uuid": "0f2b3abc-e6d3-451d-98fc-193bcd6255b7",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -10711,7 +11866,7 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "00ff2e4d-52e8-4ff6-89bc-ed62cc2b2d25"
+                                "lib/uuid": "2b54a966-eb23-49ba-bf1b-363d6cbdb15e"
                             },
                             9
                         ]
@@ -10853,7 +12008,7 @@
                                 "temporal-unit": "year",
                                 "base-type": "type/DateTime",
                                 "original-temporal-unit": "month",
-                                "lib/uuid": "5eb34775-8377-4110-b255-42b8a1c6c817",
+                                "lib/uuid": "66bedb68-37c6-457b-aa58-34fd9b404787",
                                 "effective-type": "type/DateTime"
                             },
                             31
@@ -10863,13 +12018,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "27ce2182-2177-45c6-8712-b3f5a977a485"
+                                "lib/uuid": "9cee3d44-6919-4c9f-932c-c6164fe78ed5"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Integer",
-                                    "lib/uuid": "1b51e8cc-4436-4e70-b76a-a845bac24c15",
+                                    "lib/uuid": "cf1fb218-deaa-4926-ae1b-0f4c47fbba9d",
                                     "effective-type": "type/Integer"
                                 },
                                 33
@@ -10885,14 +12040,14 @@
                             "time-interval",
                             {
                                 "include-current": true,
-                                "lib/uuid": "b879139d-317e-4b08-a7f6-c6247da3f889"
+                                "lib/uuid": "21e6d493-dbb3-4631-958b-047b775f62cf"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
                                     "inherited-temporal-unit": "year",
-                                    "lib/uuid": "beb64bab-2f5e-4784-b8e8-5e06970b488d"
+                                    "lib/uuid": "794d795d-a36b-4315-96d8-5abd892680c4"
                                 },
                                 "CREATED_AT"
                             ],
@@ -11108,7 +12263,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "b20aadf8-976e-4684-8a39-8deb999a6923",
+                                "lib/uuid": "acf92d82-1795-49fb-928c-3cb6a74800c7",
                                 "effective-type": "type/DateTime"
                             },
                             13
@@ -11120,7 +12275,7 @@
                                 "binning": {
                                     "strategy": "default"
                                 },
-                                "lib/uuid": "f24c9031-4613-49d0-bb55-2853a3f29a7e",
+                                "lib/uuid": "0739fe3f-97b9-4bf3-8003-c196156193b3",
                                 "effective-type": "type/Integer"
                             },
                             2
@@ -11130,7 +12285,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "ef03ca59-9dc9-4334-be14-d36e95bba4ad",
+                                "lib/uuid": "c68e9af6-b3a5-4f24-9e22-5ab221eae208",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -11140,13 +12295,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "e5dfbc63-0b9e-4b00-861a-2ff3db22ca56"
+                                "lib/uuid": "9741e5f7-5c88-47de-bf44-557a5c897a16"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "bd0c6fd1-2d67-4093-bda6-edf35e495ac2",
+                                    "lib/uuid": "08d2f586-cd81-49b7-ba70-35bf1bf08ef6",
                                     "effective-type": "type/Float"
                                 },
                                 5
@@ -11155,13 +12310,13 @@
                         [
                             "sum",
                             {
-                                "lib/uuid": "29000f7f-1585-4393-b6c1-b7580e43b701"
+                                "lib/uuid": "bbedcadd-9f4b-4b30-9254-86ccd77a9ad0"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Float",
-                                    "lib/uuid": "b174727b-f2e8-472a-89ef-0cd6ac30fd52",
+                                    "lib/uuid": "85471191-7197-46a5-9596-05c0d0e59505",
                                     "effective-type": "type/Float"
                                 },
                                 3
@@ -11170,7 +12325,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "ba36427e-3aa9-4d58-97b8-725068907f3d"
+                                "lib/uuid": "e13ab453-3135-4532-85ae-65df8af0ad62"
                             }
                         ]
                     ],
@@ -11255,7 +12410,7 @@
         "cache_invalidated_at": null,
         "description": "Breaks down the overall performance of each of the product categories",
         "archived": false,
-        "view_count": 1,
+        "view_count": 2,
         "collection_position": null,
         "source_card_id": null,
         "table_id": 2,
@@ -11362,7 +12517,7 @@
         "query_type": "query",
         "name": "Total orders by product category",
         "document_id": null,
-        "last_used_at": "2026-01-08T21:58:07.887094Z",
+        "last_used_at": "2026-01-09T02:15:59.876024Z",
         "type": "question",
         "creator_id": 13371338,
         "updated_at": "2026-01-08T21:45:51.44405Z",
@@ -11380,7 +12535,7 @@
                             {
                                 "base-type": "type/Text",
                                 "source-field": 14,
-                                "lib/uuid": "af927466-510b-4032-a7a9-3b2f74a8e1f4",
+                                "lib/uuid": "84178290-7588-4674-ac10-91bd82a3485d",
                                 "effective-type": "type/Text"
                             },
                             18
@@ -11390,7 +12545,7 @@
                         [
                             "metric",
                             {
-                                "lib/uuid": "b6c73915-cb9e-40f0-9837-5f167d10cc6d"
+                                "lib/uuid": "11b306cf-63fc-488e-852f-42a8dca69d30"
                             },
                             19
                         ]
@@ -11564,13 +12719,13 @@
                         [
                             "distinct",
                             {
-                                "lib/uuid": "8b6e3d89-3aa8-4eab-a30f-cdb2839c3d4f"
+                                "lib/uuid": "413a16bc-995a-4684-9823-546baa0ad273"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "961f20b3-43d2-476d-ad14-08ab0e4f7bbf"
+                                    "lib/uuid": "54ba9571-00b6-498a-b3d5-5e23209f8340"
                                 },
                                 "EMAIL"
                             ]
@@ -11582,7 +12737,7 @@
                             {
                                 "base-type": "type/DateTime",
                                 "temporal-unit": "quarter",
-                                "lib/uuid": "a639f5c1-cce9-43b3-8408-a2f0ace5ac12"
+                                "lib/uuid": "97027247-a630-4a04-89ef-b183f881ea08"
                             },
                             "CREATED_AT"
                         ]
@@ -11591,13 +12746,13 @@
                         [
                             "time-interval",
                             {
-                                "lib/uuid": "152fc312-47a4-4f05-92b5-cac3ac6a3df5"
+                                "lib/uuid": "d0b406fa-8982-4c10-ac89-47ab893551c0"
                             },
                             [
                                 "field",
                                 {
                                     "base-type": "type/DateTime",
-                                    "lib/uuid": "c657f258-35c4-4b0c-8471-fa2679bd5ade"
+                                    "lib/uuid": "1db3b4a2-8a19-475c-8bc5-f3484a8ea7db"
                                 },
                                 "CREATED_AT"
                             ],
@@ -11757,7 +12912,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "6427ebd0-a119-4558-a3ab-8700198f430e",
+                                "lib/uuid": "08c408b1-f5d7-4cce-aad4-04b8a9c56c52",
                                 "effective-type": "type/Text"
                             },
                             29
@@ -11766,7 +12921,7 @@
                             "field",
                             {
                                 "base-type": "type/Text",
-                                "lib/uuid": "2f8a004a-d7ed-44f7-8abe-d972120f0b18",
+                                "lib/uuid": "cbedd575-a3d2-4e31-be24-0560ab521dd7",
                                 "effective-type": "type/Text"
                             },
                             32
@@ -11776,7 +12931,7 @@
                         [
                             "count",
                             {
-                                "lib/uuid": "0edf9bc9-5420-4aa1-bcfd-978e1af8c78f"
+                                "lib/uuid": "417e9f58-a27d-4be0-a3a5-6ee39b2ab7f6"
                             }
                         ]
                     ],
@@ -11788,7 +12943,7 @@
                         [
                             "case",
                             {
-                                "lib/uuid": "b51a79d0-1f5d-4f1f-87ff-62413826ce76",
+                                "lib/uuid": "3188b027-015b-4a11-ae77-c0937b6f5dab",
                                 "lib/expression-name": "Step"
                             },
                             [
@@ -11796,13 +12951,13 @@
                                     [
                                         "is-null",
                                         {
-                                            "lib/uuid": "9f6920e3-17a7-4289-ab37-2a245a21610d"
+                                            "lib/uuid": "f15257b4-45ad-4fa2-8c3d-595861687d5e"
                                         },
                                         [
                                             "field",
                                             {
                                                 "base-type": "type/Text",
-                                                "lib/uuid": "0eb3636c-266d-430b-839c-f6a7337a92b7"
+                                                "lib/uuid": "27fab5e0-bf39-41c1-bd40-ea449d5177be"
                                             },
                                             "BUTTON_LABEL"
                                         ]
@@ -11814,7 +12969,7 @@
                                 "field",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "891426e9-769d-4ddf-8cac-53e677c7ee96"
+                                    "lib/uuid": "acebcace-29fd-447a-b3c4-5c0137fc492d"
                                 },
                                 "BUTTON_LABEL"
                             ]
@@ -11824,13 +12979,13 @@
                         [
                             "!=",
                             {
-                                "lib/uuid": "7913c088-86fa-4a9d-a2a5-7c5a8d0244b0"
+                                "lib/uuid": "d19eae5a-bc34-4faa-8564-386fdf2a6023"
                             },
                             [
                                 "expression",
                                 {
                                     "base-type": "type/Text",
-                                    "lib/uuid": "7c5ccc24-2658-4604-b42e-6849a271a512"
+                                    "lib/uuid": "cea89379-c711-4036-8203-6510b9df765e"
                                 },
                                 "Step"
                             ],
